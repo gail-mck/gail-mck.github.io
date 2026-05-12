@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I am currently pursuing a high school diploma at The Madeira School, with an anticipated graduation date in June 2026. In August 2026, I will begin working toward a BS in Computer Science at Yale University.
 
 
-[jekyll-organization]: https://github.com/jekyll
+As a Research Intern at Johns Hopkins Applied Physics Laboratory, I contribute to the Tactical Intelligence Systems group by conducting research on AI assurance and communication, with a focus on public health. This work includes technical presentations to PhD-level experts, development of Python tools, and large language model integration. 
+
+I have completed numerous coding projects through my academic courses, internships, and my own personal exploration. I hope to catalog those on this site soon.
